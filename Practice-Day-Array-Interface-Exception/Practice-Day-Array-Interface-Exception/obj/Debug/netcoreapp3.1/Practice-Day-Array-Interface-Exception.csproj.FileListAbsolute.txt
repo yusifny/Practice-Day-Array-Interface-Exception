@@ -1,0 +1,14 @@
+C:\Users\tu4rwlg2x\Desktop\Practice-Day-Array-Interface-Exception\Practice-Day-Array-Interface-Exception\bin\Debug\netcoreapp3.1\Practice-Day-Array-Interface-Exception.exe
+C:\Users\tu4rwlg2x\Desktop\Practice-Day-Array-Interface-Exception\Practice-Day-Array-Interface-Exception\bin\Debug\netcoreapp3.1\Practice-Day-Array-Interface-Exception.deps.json
+C:\Users\tu4rwlg2x\Desktop\Practice-Day-Array-Interface-Exception\Practice-Day-Array-Interface-Exception\bin\Debug\netcoreapp3.1\Practice-Day-Array-Interface-Exception.runtimeconfig.json
+C:\Users\tu4rwlg2x\Desktop\Practice-Day-Array-Interface-Exception\Practice-Day-Array-Interface-Exception\bin\Debug\netcoreapp3.1\Practice-Day-Array-Interface-Exception.runtimeconfig.dev.json
+C:\Users\tu4rwlg2x\Desktop\Practice-Day-Array-Interface-Exception\Practice-Day-Array-Interface-Exception\bin\Debug\netcoreapp3.1\Practice-Day-Array-Interface-Exception.dll
+C:\Users\tu4rwlg2x\Desktop\Practice-Day-Array-Interface-Exception\Practice-Day-Array-Interface-Exception\bin\Debug\netcoreapp3.1\Practice-Day-Array-Interface-Exception.pdb
+C:\Users\tu4rwlg2x\Desktop\Practice-Day-Array-Interface-Exception\Practice-Day-Array-Interface-Exception\obj\Debug\netcoreapp3.1\Practice-Day-Array-Interface-Exception.csproj.AssemblyReference.cache
+C:\Users\tu4rwlg2x\Desktop\Practice-Day-Array-Interface-Exception\Practice-Day-Array-Interface-Exception\obj\Debug\netcoreapp3.1\Practice-Day-Array-Interface-Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu4rwlg2x\Desktop\Practice-Day-Array-Interface-Exception\Practice-Day-Array-Interface-Exception\obj\Debug\netcoreapp3.1\Practice-Day-Array-Interface-Exception.AssemblyInfoInputs.cache
+C:\Users\tu4rwlg2x\Desktop\Practice-Day-Array-Interface-Exception\Practice-Day-Array-Interface-Exception\obj\Debug\netcoreapp3.1\Practice-Day-Array-Interface-Exception.AssemblyInfo.cs
+C:\Users\tu4rwlg2x\Desktop\Practice-Day-Array-Interface-Exception\Practice-Day-Array-Interface-Exception\obj\Debug\netcoreapp3.1\Practice-Day-Array-Interface-Exception.csproj.CoreCompileInputs.cache
+C:\Users\tu4rwlg2x\Desktop\Practice-Day-Array-Interface-Exception\Practice-Day-Array-Interface-Exception\obj\Debug\netcoreapp3.1\Practice-Day-Array-Interface-Exception.dll
+C:\Users\tu4rwlg2x\Desktop\Practice-Day-Array-Interface-Exception\Practice-Day-Array-Interface-Exception\obj\Debug\netcoreapp3.1\Practice-Day-Array-Interface-Exception.pdb
+C:\Users\tu4rwlg2x\Desktop\Practice-Day-Array-Interface-Exception\Practice-Day-Array-Interface-Exception\obj\Debug\netcoreapp3.1\Practice-Day-Array-Interface-Exception.genruntimeconfig.cache
